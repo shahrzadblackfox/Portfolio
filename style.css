@@ -111,7 +111,7 @@ p {
   }
 }
 @media (max-width: 400px) {
-  img {
+  .img-index {
     display: none;
   }
 }
